@@ -1,0 +1,42 @@
+[
+    {
+        "base": 5,
+        "altura": 6,
+        "resultadoEsperado": 15
+    },
+    {
+        "base": 10,
+        "altura": 2,
+        "resultadoEsperado": 10
+    },
+    {
+        "base": 7,
+        "altura": 3,
+        "resultadoEsperado": 10.5
+    },
+    {
+        "base": 9,
+        "altura": 4,
+        "resultadoEsperado": 18
+    },
+    {
+        "base": 8,
+        "altura": 5,
+        "resultadoEsperado": 20
+    },
+    {
+        "base": 5,
+        "altura": 0,
+        "resultadoEsperado": 0
+    },
+    {
+        "base": -5,
+        "altura": 6,
+        "resultadoEsperado": null
+    },
+    {
+        "base": 5,
+        "altura": -6,
+        "resultadoEsperado": null
+    }
+]

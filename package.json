@@ -1,0 +1,12 @@
+{
+  "name": "testes-unitarios-geometria",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:verbose": "jest --verbose"
+  }
+}
+
